@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arc Reactor", "Arc Reactor.csproj", "{B9236D46-BE68-DAEF-53D5-7BEDD380528E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arc Reactor.Editor", "Arc Reactor.Editor.csproj", "{EAA55981-7531-2B4E-9702-D6F8CE920485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9236D46-BE68-DAEF-53D5-7BEDD380528E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9236D46-BE68-DAEF-53D5-7BEDD380528E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9236D46-BE68-DAEF-53D5-7BEDD380528E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9236D46-BE68-DAEF-53D5-7BEDD380528E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA55981-7531-2B4E-9702-D6F8CE920485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA55981-7531-2B4E-9702-D6F8CE920485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA55981-7531-2B4E-9702-D6F8CE920485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA55981-7531-2B4E-9702-D6F8CE920485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
